@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and wannabe Game Developer
 ----------------------------------------
 
-I've been learning programming about 5 years. I started from HTML, CSS and JS with course by Ivan Petrhicenko and later in univeristy learned Python, C# and got invited by my friend to for my first IT job I always wanted to develop games and now I'm making my own simple games with Godot Engine. 
+I have been learning programming for about 5 years now. I started with HTML, CSS, and JS from Ivan Petrechenko's course, and then in university, I studied Python and C#. My friend invited me to my first job in IT. I always wanted to develop games, and now I am creating my own simple games on Godot Engine.
 
 *   🌍  I'm based in Gorno-Altaysk
 *   ✉️  You can contact me at [erel5693@gmail.com](mailto:erel5693@gmail.com)
