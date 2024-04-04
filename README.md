@@ -6,6 +6,10 @@ Web Developer and wannabe Game Developer
 
 I have been learning programming for about 5 years now. I started with HTML, CSS, and JS from Ivan Petrechenko's course, and then in university, I studied Python and C#. My friend invited me to my first job in IT. I always wanted to develop games, and now I am creating my own simple games on Godot Engine.
 
+![image](https://github.com/mykweenn/mykweenn/assets/98867083/6f1d108b-d420-4887-8bac-42efc7ddcde9)
+
+
+
 *   🌍  I'm based in Gorno-Altaysk
 *   ✉️  You can contact me at [erel5693@gmail.com](mailto:erel5693@gmail.com)
 *   🧠  I'm learning C# and Unity, Django, React and JS
