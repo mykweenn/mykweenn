@@ -12,9 +12,9 @@ I have been learning programming for about 5 years now. I started with HTML, CSS
 
 *   🌍  I'm based in Gorno-Altaysk
 *   ✉️  You can contact me at [erel5693@gmail.com](mailto:erel5693@gmail.com)
-*   🧠  I'm learning C# and Unity, Django, React and JS
+*   🧠  I'm learning: Flutter, GDScript and Python
 *   🤝  I'm open to collaborating on some intersting game projects
-*   ⚡  I prefer to improvise... Like Spider-Man (ikr)
+*   ⚡  I prefer to improvise
 ### Skills
 
 <p align="left">
