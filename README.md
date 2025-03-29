@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erel Shinzhin
 =====================================================================================================================================
 
-Web Developer and wannabe Game Developer
+Game Developer i guess 
 ----------------------------------------
 
 I have been learning programming for about 5 years now. I started with HTML, CSS, and JS from Ivan Petrechenko's course, and then in university, I studied Python and C#. My friend invited me to my first job in IT. I always wanted to develop games, and now I am creating my own simple games on Godot Engine.
