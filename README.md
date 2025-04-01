@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer i guess 
 ----------------------------------------
 
-I have been learning programming for about 5 years now. I started with HTML, CSS, and JS from Ivan Petrechenko's course, and then in university, I studied Python and C#. My friend invited me to my first job in IT. I always wanted to develop games, and now I am creating my own simple games on Godot Engine.
+I have been learning programming for about 5 years now. I started with HTML, CSS, and JS in university, I studied Python and C#. My friend invited me to my first job in IT. I always wanted to develop games, and now I am creating my own simple games on Godot Engine.
 
 ![image](https://github.com/mykweenn/mykweenn/assets/98867083/6f1d108b-d420-4887-8bac-42efc7ddcde9)
 
